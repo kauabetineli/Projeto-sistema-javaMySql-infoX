@@ -1,4 +1,4 @@
-# sistema-javaMySql-infoX
+# Projeto-sistema-javaMySql-infoX
 
 Sistema construído utilizando Java, MySQL e Jaspersoft Studio. 
 
